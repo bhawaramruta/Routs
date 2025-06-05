@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import './BookTable.css';
+import '../BookTable.css';
 
 
 function BookTable() {
