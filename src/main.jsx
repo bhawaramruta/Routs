@@ -9,7 +9,7 @@ import store from './store.js'
 
 createRoot(document.getElementById('root')).render(
   <Provider store={store}>
-   <BrowserRouter>
+   <BrowserRouter basename="/Routs">
     <App />
    </BrowserRouter>
    
