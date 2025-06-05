@@ -1,0 +1,219 @@
+{
+  "posts": [
+    { "id": "1", "title": "a title", "views": 100 },
+    { "id": "2", "title": "another title", "views": 200 }
+  ],
+  "comments": [
+    { "id": "1", "text": "a comment about post 1", "postId": "1" },
+    { "id": "2", "text": "another comment about post 1", "postId": "1" }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+
+  "meal":  [
+  {
+    "id": 1,
+    "name": "Spaghetti Bolognese",
+    "category": "Dinner",
+    "instructions": "Cook pasta, brown beef, add sauce, and simmer.",
+    "image": "https://www.themealdb.com/images/media/meals/sutysw1468247559.jpg",
+    "price": 299,
+    "orderReview": "Rich and flavorful. Perfect for a family dinner.",
+    "rating": 4.5
+  },
+  {
+    "id": 2,
+    "name": "Chicken Caesar Salad",
+    "category": "Lunch",
+    "instructions": "Grill chicken, toss with lettuce, croutons, and Caesar dressing.",
+    "image": "https://www.themealdb.com/images/media/meals/llcbn01574260722.jpg",
+    "price": 249,
+    "orderReview": "Fresh and crisp with generous chicken slices.",
+    "rating": 4.3
+  },
+  {
+    "id": 3,
+    "name": "Pancakes",
+    "category": "Breakfast",
+    "instructions": "Mix batter and cook on a griddle until golden brown.",
+    "image": "https://www.themealdb.com/images/media/meals/rwuyqx1511383174.jpg",
+    "price": 139,
+    "orderReview": "Soft, fluffy and best with maple syrup.",
+    "rating": 4.7
+  },
+  {
+    "id": 4,
+    "name": "Beef Tacos",
+    "category": "Dinner",
+    "instructions": "Cook beef with seasoning and serve in taco shells with toppings.",
+    "image": "https://www.themealdb.com/images/media/meals/qtuwxu1468233098.jpg",
+    "price": 279,
+    "orderReview": "Crispy tacos with perfectly seasoned beef.",
+    "rating": 4.6
+  },
+  {
+    "id": 5,
+    "name": "Avocado Toast",
+    "category": "Breakfast",
+    "instructions": "Toast bread and spread mashed avocado on top.",
+    "image": "https://www.themealdb.com/images/media/meals/1548772327.jpg",
+    "price": 119,
+    "orderReview": "Healthy and filling, ideal for a light breakfast.",
+    "rating": 4.2
+  },
+  {
+    "id": 6,
+    "name": "Grilled Cheese Sandwich",
+    "category": "Lunch",
+    "instructions": "Butter bread, add cheese, and grill until golden.",
+    "image": "https://www.themealdb.com/images/media/meals/xutquv1505330523.jpg",
+    "price": 149,
+    "orderReview": "Classic comfort food done just right.",
+    "rating": 4.4
+  },
+  {
+    "id": 7,
+    "name": "Teriyaki Chicken",
+    "category": "Dinner",
+    "instructions": "Marinate chicken in teriyaki sauce and cook until done.",
+    "image": "https://www.themealdb.com/images/media/meals/wvpsxx1468256321.jpg",
+    "price": 299,
+    "orderReview": "Sweet and savory. Very well-balanced flavor.",
+    "rating": 4.6
+  },
+  {
+    "id": 8,
+    "name": "Veggie Stir-Fry",
+    "category": "Dinner",
+    "instructions": "Stir-fry mixed vegetables in soy sauce and sesame oil.",
+    "image": "https://www.themealdb.com/images/media/meals/wrssvt1511556563.jpg",
+    "price": 179,
+    "orderReview": "Fresh and crunchy. Light and healthy option.",
+    "rating": 4.1
+  },
+  {
+    "id": 9,
+    "name": "Margarita Pizza",
+    "category": "Dinner",
+    "instructions": "Top pizza dough with tomato sauce, mozzarella, and basil. Bake.",
+    "image": "https://www.themealdb.com/images/media/meals/x0lk931587671540.jpg",
+    "price": 269,
+    "orderReview": "Thin crust, fresh toppings. Excellent taste.",
+    "rating": 4.5
+  },
+  {
+    "id": 10,
+    "name": "Tomato Soup",
+    "category": "Lunch",
+    "instructions": "Simmer tomatoes with onions and blend until smooth.",
+    "image": "https://www.themealdb.com/images/media/meals/stpuws1511191310.jpg",
+    "price": 139,
+    "orderReview": "Warm and hearty, perfect with breadsticks.",
+    "rating": 4.3
+  },
+  {
+    "id": 11,
+    "name": "Omelette",
+    "category": "Breakfast",
+    "instructions": "Beat eggs, cook in skillet, and fold with fillings.",
+    "image": "https://www.themealdb.com/images/media/meals/yvpuuy1511797244.jpg",
+    "price": 99,
+    "orderReview": "Quick and satisfying, loaded with flavor.",
+    "rating": 4.4
+  },
+  {
+    "id": 12,
+    "name": "Chili Con Carne",
+    "category": "Dinner",
+    "instructions": "Cook ground beef with beans, tomatoes, and spices.",
+    "image": "https://www.themealdb.com/images/media/meals/uwxqwy1483389553.jpg",
+    "price": 269,
+    "orderReview": "Spicy and filling, great for dinner.",
+    "rating": 4.5
+  },
+  {
+    "id": 13,
+    "name": "Shrimp Fried Rice",
+    "category": "Dinner",
+    "instructions": "Stir-fry shrimp with rice, vegetables, and soy sauce.",
+    "image": "https://www.themealdb.com/images/media/meals/1529443236.jpg",
+    "price": 239,
+    "orderReview": "Well cooked shrimp with a great umami kick.",
+    "rating": 4.6
+  },
+  {
+    "id": 14,
+    "name": "Greek Salad",
+    "category": "Lunch",
+    "instructions": "Mix vegetables, olives, and feta cheese. Drizzle with olive oil.",
+    "image": "https://www.themealdb.com/images/media/meals/wvpsxx1468256321.jpg",
+    "price": 189,
+    "orderReview": "Crunchy and refreshing, perfect with grilled chicken.",
+    "rating": 4.2
+  },
+  {
+    "id": 15,
+    "name": "French Toast",
+    "category": "Breakfast",
+    "instructions": "Dip bread in egg mixture and fry until golden brown.",
+    "image": "https://www.themealdb.com/images/media/meals/rwuyqx1511383174.jpg",
+    "price": 129,
+    "orderReview": "Golden and crispy, lightly sweet and buttery.",
+    "rating": 4.3
+  },
+  {
+    "id": 16,
+    "name": "Fish Tacos",
+    "category": "Dinner",
+    "instructions": "Cook seasoned fish and serve in tortillas with toppings.",
+    "image": "https://www.themealdb.com/images/media/meals/uvuyxu1503067369.jpg",
+    "price": 259,
+    "orderReview": "Light and crispy fish, great with lime.",
+    "rating": 4.5
+  },
+  {
+    "id": 17,
+    "name": "Caprese Salad",
+    "category": "Lunch",
+    "instructions": "Layer tomato slices with mozzarella and basil. Drizzle with olive oil.",
+    "image": "https://www.themealdb.com/images/media/meals/ustsqw1468250014.jpg",
+    "price": 159,
+    "orderReview": "Simple, fresh, and elegant.",
+    "rating": 4.1
+  },
+  {
+    "id": 18,
+    "name": "Chicken Curry",
+    "category": "Dinner",
+    "instructions": "Simmer chicken in curry sauce until cooked through.",
+    "image": "https://www.themealdb.com/images/media/meals/1529444830.jpg",
+    "price": 279,
+    "orderReview": "Authentic Indian flavor, rich and spicy.",
+    "rating": 4.7
+  },
+  {
+    "id": 19,
+    "name": "Sushi Rolls",
+    "category": "Dinner",
+    "instructions": "Roll sushi rice and fillings in nori, slice, and serve.",
+    "image": "https://www.themealdb.com/images/media/meals/g046bb1663960946.jpg",
+    "price": 449,
+    "orderReview": "Fresh and light, good variety of fillings.",
+    "rating": 4.6
+  },
+  {
+    "id": 20,
+    "name": "Mac and Cheese",
+    "category": "Lunch",
+    "instructions": "Cook pasta and mix with cheese sauce.",
+    "image": "https://www.themealdb.com/images/media/meals/wxuvuv1511299147.jpg",
+    "price": 279,
+    "orderReview": "Authentic Indian flavor, rich and spicy.",
+    "rating": 4.7
+
+  }
+]
+
+
+}
